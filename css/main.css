@@ -20,6 +20,7 @@ section {
     display: flex;
     width: 1000px;
     margin: 20em auto; 
+    position: relative;
 }
 
 .leftcol {
