@@ -21,3 +21,11 @@ section {
     width: 1000px;
     margin: 20em auto; 
 }
+
+.leftcol {
+    flex: 2;
+}
+
+.rightcol {
+    flex: 1;
+}
