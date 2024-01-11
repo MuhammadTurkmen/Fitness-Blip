@@ -23,6 +23,10 @@ section {
     position: relative;
 }
 
+section:before {
+    position: absolute;
+} 
+
 .leftcol {
     flex: 2;
     display: flex;
