@@ -35,4 +35,5 @@ section {
     grid-template-areas: 
         "primary ."
         "primary .";
+        gap: 2.3rem;
 }
