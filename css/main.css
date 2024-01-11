@@ -6,3 +6,7 @@ body {
     background: #DAE0EA;
     font-family: 'Inter';
 }
+
+img {
+    width: 100%;
+}
