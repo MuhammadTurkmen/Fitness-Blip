@@ -28,6 +28,8 @@ section:before {
     content: '';
     top: 0;
     left: -50px;
+    width: 150px;
+    height: 150px;
 } 
 
 .leftcol {
