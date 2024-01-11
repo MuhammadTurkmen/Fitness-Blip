@@ -13,4 +13,10 @@ img {
     object-fit: cover;
     aspect-ratio: 1/1;
     border-radius: 1em;
+
+}
+
+section {
+    display: flex;
+    width: 1000px;
 }
