@@ -25,6 +25,9 @@ section {
 
 section:before {
     position: absolute;
+    content: '';
+    top: 0;
+    left: -50px;
 } 
 
 .leftcol {
