@@ -53,5 +53,11 @@ p {
 
 a.cta {
     display: flex;
-    
+    align-self: start;
+    background-color: #1A63DD;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    gap: 1em;
+    padding: 1.3em;
 }
