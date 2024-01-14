@@ -50,8 +50,8 @@ section:before {
     flex: 1;
     display: grid;
     grid-template-areas: 
-        "primary ."
-        "primary .";
+        ". ."
+        "primary primary";
     gap: 2.3rem;
 }
 
