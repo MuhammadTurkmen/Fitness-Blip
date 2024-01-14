@@ -94,5 +94,7 @@ a.cta {
     }
     a.cta {
         display: inline-flex;
+        align-self: flex-start;
+        justify-content: auto;
     }
 }
