@@ -108,5 +108,6 @@ a.cta {
     section {
         margin-top: 20em;
         flex-direction: row;
+        gap: 2em;
     }
 }
