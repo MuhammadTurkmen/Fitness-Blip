@@ -91,6 +91,7 @@ a.cta {
     }
     .primary {
         height: 100%;
+        grid-area: unset;
     }
     .secondary {
         
