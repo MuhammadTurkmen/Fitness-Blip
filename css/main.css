@@ -19,6 +19,7 @@ img {
 section {
     display: flex;
     flex-direction: column;
+    gap: 8em;
     width: 1000px;
     margin: 20em auto; 
     position: relative;
