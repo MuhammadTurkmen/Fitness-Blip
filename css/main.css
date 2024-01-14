@@ -103,3 +103,7 @@ a.cta {
         justify-content: auto;
     }
 }
+
+@media only screen and (min-width: 1000px) {
+    
+}
