@@ -57,6 +57,7 @@ section:before {
 
 .primary {
     grid-area: primary;
+    height: 200px;
 }
 
 h1 {
