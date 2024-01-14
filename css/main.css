@@ -92,6 +92,10 @@ a.cta {
     .primary {
         height: 100%;
     }
+    .secondary {
+        
+    }
+    
     a.cta {
         display: inline-flex;
         align-self: flex-start;
