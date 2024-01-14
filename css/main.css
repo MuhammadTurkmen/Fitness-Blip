@@ -94,7 +94,7 @@ a.cta {
         grid-area: unset;
     }
     .secondary {
-        
+        grid-area: primary;
     }
     
     a.cta {
