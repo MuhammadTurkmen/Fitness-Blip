@@ -92,4 +92,7 @@ a.cta {
     .primary {
         height: 100%;
     }
+    a.cta {
+        display: inline-flex;
+    }
 }
