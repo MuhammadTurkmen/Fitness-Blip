@@ -84,5 +84,9 @@ a.cta {
 }
 
 @media only screen and (min-width: 600px) {
-    
+    .rightcol {
+        grid-template-areas: 
+            "primary ."
+            "primary .";
+    }
 }
